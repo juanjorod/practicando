@@ -1,3 +1,6 @@
 esta es la primera linea de practica.
 
 a=2 ^ b=3
+
+definamos operacion suma:
+a+b=5
