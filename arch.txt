@@ -12,3 +12,8 @@ a.b=b.a=6
 
 definamos operacion inversa del producto:
 a/b=2/3 ^ b/a=3/2.
+
+operacion raiz cuadrada:
+dado c=4
+sqrt() es la operacion raiz
+sqrt(4)=2
