@@ -9,3 +9,6 @@ a-b=-1 ^ b-a=1
 
 definamos operacion producto:
 a.b=b.a=6
+
+definamos operacion inversa del producto:
+a/b=2/3 ^ b/a=3/2.
