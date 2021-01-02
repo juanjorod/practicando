@@ -6,3 +6,6 @@ definamos operacion suma:
 a+b=5
 definamos operacion resta:
 a-b=-1 ^ b-a=1
+
+definamos operacion producto:
+a.b=b.a=6
