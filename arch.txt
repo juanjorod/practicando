@@ -4,3 +4,5 @@ a=2 ^ b=3
 
 definamos operacion suma:
 a+b=5
+definamos operacion resta:
+a-b=-1 ^ b-a=1
